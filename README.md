@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ParthProLegend/ParthProLegend/raw/main/header.gif" alt="GIF Spelling Out Maddy">
+  <img src="https://github.com/ParthProLegend/ParthProLegend/raw/main/myheader.gif"> <!--alt="GIF Spelling Out Maddy"> -->
   <img width="100%" height="50px" src="https://www.seekpng.com/png/full/36-364027_grid-transparent-vaporwave-floor.png" alt="GIF Spelling Out Maddy">
 </p>
 
