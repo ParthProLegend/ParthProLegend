@@ -8,9 +8,9 @@
 struct { // About Me
     string intro = "Hi, I'm Parth, a newbie developer.";
     vector<string> common_langs = { "HTML", "Python", "C", "C++", "SQL"};
-    vector<string> learning = { "Python" };
-    string interest = "I love music, video games, manga and anime";
-    string email = "heheheheeh";
+    vector<string> learning = { "Python" , "EthicalHacking" };
+    string interest = "I love Music, Video games, Manga and Anime";
+    string email = "parthroll25+github@gmail.com";
     string discord = "@ParthProLegend";
     string matrix = "notsureyet";
 } Parth;
