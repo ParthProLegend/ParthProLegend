@@ -23,3 +23,4 @@ struct { // About Me
 
 <!-- [![Spotify](https://readme-spotify-git-master-xm4ddy.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mocwilcox) -->
 Apple Music doesn't support this yet.
+<img src="https://github.com/ParthProLegend/ParthProLegend/raw/main/footer.gif" alt="Shitty Apple doesn't has API but Lossless Audio is worth it.">
