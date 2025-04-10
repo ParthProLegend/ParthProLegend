@@ -1,6 +1,6 @@
 <p align="center">
   <img width="493.75pxpx" height="173.7575px"src="https://github.com/ParthProLegend/ParthProLegend/raw/main/myheader.gif" alt="GIF of Zombie Apocalypse, Contains Gore">
-  <img width="587.5px" height="200.006px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/myfooter.gif" alt="GIF of Dance Floor">
+  <!--img width="587.5px" height="200.006px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/myfooter.gif" alt="GIF of Dance Floor">
   <!--img width="100%" height="50px" src="https://www.seekpng.com/png/full/36-364027_grid-transparent-vaporwave-floor.png" alt="GIF Spelling Out Maddy"-->
 </p>
 
