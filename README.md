@@ -21,12 +21,13 @@ struct { // About Me
 
 <!-- <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" /> -->
 ---
-## What I'm Vibing to 🎵:
+## Current Status:
 
 <!-- [![Spotify](https://readme-spotify-git-master-xm4ddy.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mocwilcox) -->
 I stopped listening to music, stopped reading Manga and controlled doomscrolling.
 
-### My stats:
+## My stats:
+
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <img align = "right" width="400px" height="252px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/footer.gif" alt="Depressed? NO. Motivated? NO. Just living.">
@@ -50,7 +51,7 @@ I stopped listening to music, stopped reading Manga and controlled doomscrolling
 
 
 
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 <!--div style="display: inline_block"><br>
   <img alt="ParthProLegend GitHub views" width="103" height="20" src="https://komarev.com/ghpvc/?username=ParthProLegend&style=flat-square">
@@ -63,23 +64,24 @@ I stopped listening to music, stopped reading Manga and controlled doomscrolling
 </div-->
  
  ## Skills
-<div style="display: inline_block"><br>
-  <img height="40" align="center" alt="Parth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Parth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Parth-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Parth-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Parth-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Parth-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <a href="https://github.com/ParthProLegend">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthProLegend&layout=compact&langs_count=16&theme=dracula"/>
+<div style="display: inline_block">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthProLegend&layout=compact&langs_count=16&theme=dracula"/>
+  <br>
+  <img height="50" align="center" alt="Parth-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" align="center" alt="Parth-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" align="center" alt="Parth-Cplusplus" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" align="center" alt="Parth-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" align="center" alt="Parth-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" align="center" alt="Parth-Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <br><br>
 </div>
   
-</br>
+<br>
 
 ## Contact 
 <div> 
