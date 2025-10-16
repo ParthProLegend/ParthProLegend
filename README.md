@@ -12,7 +12,7 @@ struct { // About Me
     vector<string> common_langs = { "HTML", "Python", "C", "C++", "SQL"};
     vector<string> learning = { "Python" , "EthicalHacking" };
     string interest = "I loved Music, Video games, Manga and Anime";
-    string email = "ParthProLegend@dlash.co";
+    string email = "ParthProLegend@flash.co";
     string discord = "@ParthProLegend";
     string matrix = "notsureyet";
 } Parth;
@@ -27,20 +27,45 @@ I stopped listening to music, stopped reading Manga and controlled doomscrolling
 
 ### My stats:
 
-<table>
-  <tr>
-    <td width="450" valign="top">
-      <br>
-      <img src="https://komarev.com/ghpvc/?username=ParthProLegend&style=flat-square" alt="ParthProLegend GitHub views" width="103" height="20" />
-      <br>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=ParthProLegend" alt="ParthProLegend GitHub stats" width="450" height="195" />
-    </td>
-    <td>
-      <img src="https://github.com/ParthProLegend/ParthProLegend/raw/main/footer.gif" alt="Depressed? NO. Motivated? NO. Just living." width="480" height="270" />
-    </td>
-  </tr>
-</table>
-
+<div style="display: inline_block"><br>
+  <img alt="ParthProLegend GitHub views" width="103" height="20" src="https://komarev.com/ghpvc/?username=ParthProLegend&style=flat-square">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align = "right" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/footer.gif" alt="Depressed? NO. Motivated? NO. Just living." width="480" height="270">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br><br>
+  <img alt="ParthProLegend GitHub stats" width="450" height="195" src="https://github-readme-stats.vercel.app/api?username=ParthProLegend&show_icons=true&theme=dracula&include_all_commits=true&count_private=false">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
  
-<!-- github workflow  -->
+ ## Skills
+<div style="display: inline_block"><br>
+  <img height="40" align="center" alt="Parth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Parth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Parth-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Parth-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Parth-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Parth-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <a href="https://github.com/ParthProLegend">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthProLegend&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
+</br>
+
+## Contact 
+<div> 
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/ParthProLegend" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ParthProLegend" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: ParthProLegend@flash.co"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+
+ <!-- Github workflow  -->
+  ![Snake animation](https://github.com/ParthProLegend/ParthProLegend/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
