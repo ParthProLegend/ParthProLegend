@@ -12,7 +12,7 @@ struct { // About Me
     vector<string> common_langs = { "HTML", "Python", "C", "C++", "SQL"};
     vector<string> learning = { "Python" , "EthicalHacking" };
     string interest = "I loved Music, Video games, Manga and Anime";
-    string email = "ParthProLegend@flash.co";
+    string email = "ParthProLegend+github@flash.co";
     string discord = "@ParthProLegend";
     string matrix = "notsureyet";
 } Parth;
@@ -61,7 +61,7 @@ I stopped listening to music, stopped reading Manga and controlled doomscrolling
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/ParthProLegend" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ParthProLegend" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: ParthProLegend@flash.co"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: ParthProLegend+github@flash.co"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
 
