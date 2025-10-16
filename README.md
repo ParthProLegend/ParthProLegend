@@ -28,11 +28,11 @@ I stopped listening to music, stopped reading Manga and controlled doomscrolling
 
 ### My stats:
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <img align = "right" width="400px" height="252px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/footer.gif" alt="Depressed? NO. Motivated? NO. Just living.">
   <div>
-    <img align = "left" alt="ParthProLegend GitHub views" width="103px" height="20px" src="https://komarev.com/ghpvc/?username=ParthProLegend&style=flat-square"><br><br>
-    <img align = "left" alt="ParthProLegend GitHub stats" width="450px" height="195px" src="https://github-readme-stats.vercel.app/api?username=ParthProLegend&show_icons=true&theme=dracula&include_all_commits=true&count_private=false">
+    <img alt="ParthProLegend GitHub views" width="103px" height="20px" src="https://komarev.com/ghpvc/?username=ParthProLegend&style=flat-square"><br><br>
+    <img alt="ParthProLegend GitHub stats" width="405px" height="175.5px" src="https://github-readme-stats.vercel.app/api?username=ParthProLegend&show_icons=true&theme=dracula&include_all_commits=true&count_private=false">
   </div>
 </div>
 
