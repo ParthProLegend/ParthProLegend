@@ -10,8 +10,8 @@ struct { // About Me
     string intro = "Hi, I'm Parth, a newbie developer.";
     vector<string> common_langs = { "HTML", "Python", "C", "C++", "SQL"};
     vector<string> learning = { "Python" , "EthicalHacking" };
-    string interest = "I love Music, Video games, Manga and Anime";
-    string email = "parthroll25+github@gmail.com";
+    string interest = "I loved Music, Video games, Manga and Anime";
+    string email = "ParthProLegend@dlash.co";
     string discord = "@ParthProLegend";
     string matrix = "notsureyet";
 } Parth;
@@ -22,7 +22,7 @@ struct { // About Me
 ## What I'm Vibing to 🎵:
 
 <!-- [![Spotify](https://readme-spotify-git-master-xm4ddy.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mocwilcox) -->
-Apple Music doesn't support this yet.
+I stopped listening to music, stopped reading Manga and controlled doomscrolling.
 
 
-<img src="https://github.com/ParthProLegend/ParthProLegend/raw/main/footer.gif" alt="Shitty Apple doesn't has API but Lossless Audio is worth it.">
+<img src="https://github.com/ParthProLegend/ParthProLegend/raw/main/footer.gif" alt="Depressed? NO. Motivated? NO. Just living.">
