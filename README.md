@@ -65,7 +65,7 @@ I stopped listening to music, stopped reading Manga and controlled doomscrolling
  
  ## Skills
 <div style="display: inline_block">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthProLegend&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="right" src="https://github-readme-stats-loves-69.vercel.app/api/top-langs/?username=ParthProLegend&layout=compact&langs_count=16&theme=dracula"/>
   <br>
   <img height="50" align="center" alt="Parth-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
