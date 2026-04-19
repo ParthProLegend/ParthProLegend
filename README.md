@@ -9,13 +9,13 @@
 ## Hi There 👋, Here's a Little About Me
 ```c++
 struct { // About Me
-    string intro = "Hi, I'm Parth, a newbie developer.";
+    string intro = "Hi, I'm Parth, a software developer.";
     vector<string> common_langs = { "HTML", "Python", "C", "C++", "SQL"};
-    vector<string> learning = { "Python" , "EthicalHacking" };
+    vector<string> learning = { "CSS", "Javascript" , "EthicalHacking" };
     string interest = "I loved Music, Video games, Manga and Anime";
-    string email = "ParthProLegend+github@flash.co";
+    string email = "parthworks247+github@gmail.com";
     string discord = "@ParthProLegend";
-    string matrix = "notsureyet";
+    string matrix = "@parthprolegend:matrix.org"; //Getting reply here is tough though
 } Parth;
 ```
 
