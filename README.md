@@ -32,7 +32,7 @@ I stopped listening to music, stopped reading Manga and controlled doomscrolling
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <img align = "right" width="400px" height="252px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/footer.gif" alt="Depressed? NO. Motivated? NO. Just living.">
   <div>
-    <img alt="ParthProLegend GitHub views" width="103px" height="20px" src="https://komarev.com/ghpvc/?username=ParthProLegend&style=flat-square"><br><br>
+    <img alt="ParthProLegend GitHub views" width="103" height="20" src="https://komarev.com/ghpvc/?username=ParthProLegend&style=flat-square"><br><br>
     <img alt="ParthProLegend GitHub stats" width="405px" height="175.5px" src="https://github-readme-stats-loves-69.vercel.app/api?username=ParthProLegend&show_icons=true&theme=dracula&include_all_commits=true&count_private=false">
   </div>
 </div>
@@ -53,7 +53,7 @@ I stopped listening to music, stopped reading Manga and controlled doomscrolling
 
 <br><br>
 
-<!--div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img alt="ParthProLegend GitHub views" width="103" height="20" src="https://komarev.com/ghpvc/?username=ParthProLegend&style=flat-square">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align = "right" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/footer.gif" alt="Depressed? NO. Motivated? NO. Just living." width="448" height="252">
@@ -61,10 +61,10 @@ I stopped listening to music, stopped reading Manga and controlled doomscrolling
   <br><br>
   <img alt="ParthProLegend GitHub stats" width="450" height="195" src="https://github-readme-stats.vercel.app/api?username=ParthProLegend&show_icons=true&theme=dracula&include_all_commits=true&count_private=false">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div-->
+</div>
  
  ## Skills
-<div style="display: inline_block">
+<div style="display: inline-block;">  <!-- <div style="display: flex; flex-direction: row;"> -->
   <img align="right" src="https://github-readme-stats-loves-69.vercel.app/api/top-langs/?username=ParthProLegend&layout=compact&langs_count=16&theme=dracula"/>
   <br>
   <img height="50" align="center" alt="Parth-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -80,6 +80,27 @@ I stopped listening to music, stopped reading Manga and controlled doomscrolling
   <img height="50" align="center" alt="Parth-Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <br><br>
 </div>
+
+<!-- <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+
+  <img align="right" src="https://github-readme-stats-loves-69.vercel.app/api/top-langs/?username=ParthProLegend&layout=compact&langs_count=16&theme=dracula"/>
+
+  <img height="40" width="50" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img height="40" width="50" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img height="40" width="50" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+
+  <img height="40" width="50" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
+
+  <img height="40" width="50" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
+  <img height="40" width="50" alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+
+</div> -->
+
+
+
   
 <br>
 
