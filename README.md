@@ -38,35 +38,6 @@ I stopped listening to music, stopped reading Manga and controlled doomscrolling
 </div>
 
 
-<style>
-@media (max-width: 768px) {
-  .hide-on-mobile {
-    display: none;
-  }
-}
-</style>
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  
-  <div class="hide-on-mobile">
-    <img align="right" width="400px" height="252px"
-         src="https://github.com/ParthProLegend/ParthProLegend/raw/main/footer.gif"
-         alt="Depressed? NO. Motivated? NO. Just living.">
-  </div>
-
-  <div>
-    <img alt="ParthProLegend GitHub views" width="103" height="20"
-         src="https://komarev.com/ghpvc/?username=ParthProLegend&style=flat-square"><br><br>
-
-  <img alt="ParthProLegend GitHub stats" width="420.3px" height="175.5px"
-         src="https://github-readme-stats-loves-69.vercel.app/api?username=ParthProLegend&show_icons=true&theme=dracula&include_all_commits=true&count_private=false">
-  </div>
-
-</div>
-
-
-
-
 <!--h3 align="center">My Stats:</h3-->
 
 <!--div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
@@ -110,26 +81,17 @@ I stopped listening to music, stopped reading Manga and controlled doomscrolling
 </div>
 
 <!-- <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-
   <img align="right" src="https://github-readme-stats-loves-69.vercel.app/api/top-langs/?username=ParthProLegend&layout=compact&langs_count=16&theme=dracula"/>
-
   <img height="40" width="50" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
   <img height="40" width="50" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
   <img height="40" width="50" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-
   <img height="40" width="50" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
-
   <img height="40" width="50" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
   <img height="40" width="50" alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-
 </div> -->
 
 
 
-  
 <br>
 
 ## Contact 
