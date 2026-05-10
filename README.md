@@ -15,7 +15,7 @@ struct { // About Me
     string interest = "I loved Music, Video games, Manga and Anime";
     string email = "parthworks247+github@gmail.com";
     string discord = "@ParthProLegend";
-    string matrix = "@parthprolegend:matrix.org"; //Getting reply here is tough though
+    string matrix = "@parthprolegend:matrix.org"; //Getting reply here is nearly impossible though
 } Parth;
 ```
 
