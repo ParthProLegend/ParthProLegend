@@ -24,7 +24,7 @@ struct { // About Me
 ## Current Status:
 
 <!-- [![Spotify](https://readme-spotify-git-master-xm4ddy.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mocwilcox) -->
-I stopped listening to music, stopped reading Manga and controlled doomscrolling.
+I stopped watching anime and reading manga, mitigated doomscrolling and listening to music. Focusing on health, diet and skills.
 
 ## My stats:
 
