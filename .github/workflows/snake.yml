@@ -1,7 +1,7 @@
 name: Generate Snake GIF and SVG
 on:
-  schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
+  schedule:
+    - cron: "0 0 * * */2"
   workflow_dispatch:
 
 jobs:
@@ -9,7 +9,6 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animations (Light + Dark + GIF)
       - uses: Platane/snk@v3
         id: snake
         with:
