@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="413.976px" height="166.788px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/myheader.gif" alt="GIF of Zombie Apocalypse, Contains Gore">
+  <img width="413.976px" height="166.788px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/media/myheader.gif" alt="GIF of Zombie Apocalypse, Contains Gore">
   <!--img src="https://github.com/ParthProLegend/ParthProLegend/raw/main/myheader.gif" alt="Zombie Apocalypse GIF" width="80%" style="max-width: 413px;"-->
   <!--img width="493.75pxpx" height="173.7575px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/myheader.gif" alt="GIF of Zombie Apocalypse, Contains Gore"-->
   <!--img width="587.5px" height="200.006px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/myfooter.gif" alt="GIF of Dance Floor"-->
@@ -30,7 +30,7 @@ I stopped watching anime and reading manga, mitigated doomscrolling and listenin
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <img align = "right" width="400px" height="252px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/footer.gif" alt="Depressed? NO. Motivated? NO. Just living.">
+  <img align = "right" width="400px" height="252px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/media/footer.gif" alt="Depressed? NO. Motivated? NO. Just living.">
   <div>
     <img alt="ParthProLegend GitHub views" width="103" height="20" src="https://komarev.com/ghpvc/?username=ParthProLegend&style=flat-square"><br><br>
     <img alt="ParthProLegend GitHub stats" width="420.3px" height="175.5px" src="https://github-readme-stats-loves-69.vercel.app/api?username=ParthProLegend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
@@ -61,7 +61,7 @@ I stopped watching anime and reading manga, mitigated doomscrolling and listenin
   <img alt="ParthProLegend GitHub stats" width="467" height="195" src="https://github-readme-stats.vercel.app/api?username=ParthProLegend&show_icons=true&theme=dracula&include_all_commits=true&count_private=false">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div> -->
- 
+
  ## Skills
 <div style="display: inline-block;">  <!-- <div style="display: flex; flex-direction: row;"> -->
   <img align="right" src="https://github-readme-stats-loves-69.vercel.app/api/top-langs/?username=ParthProLegend&layout=compact&langs_count=16&theme=dracula"/>
@@ -94,9 +94,9 @@ I stopped watching anime and reading manga, mitigated doomscrolling and listenin
 
 <br>
 
-## Contact 
-<div> 
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## Contact
+<div>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/ParthProLegend" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ParthProLegend" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: parthworks247+github@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
