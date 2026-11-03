@@ -109,11 +109,11 @@ I stopped watching anime and reading manga, mitigated doomscrolling and listenin
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ParthProLegend/ParthProLegend/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ParthProLegend/ParthProLegend/blob/output/github-contribution-grid-snake-light.svg">
-    <img alt="GitHub Snake Animation" src="https://github.com/ParthProLegend/ParthProLegend/blob/output/github-contribution-grid-snake-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthProLegend/ParthProLegend/refs/heads/snake_gif/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParthProLegend/ParthProLegend/refs/heads/snake_gif/github-contribution-grid-snake-light.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/ParthProLegend/ParthProLegend/refs/heads/snake_gif/github-contribution-grid-snake-light.svg">
   </picture>
 </p>
 
 
-<!-- ![GitHub Snake GIF](https://github.com/ParthProLegend/ParthProLegend/blob/output/github-contribution-grid-snake.gif) -->
+<!-- ![GitHub Snake GIF](https://github.com/ParthProLegend/ParthProLegend/blob/snake_gif/github-contribution-grid-snake.gif) -->
