@@ -19,25 +19,25 @@ jobs:
         uses: ParthProLegendForks/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile_stats/stats.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&custom_title=Parth%27s+GitHub+Stats&disable_animations=false&number_format=long&show=prs_merged_percentage,prs_reviewed&count_private=true
+          path: profile_stats/all-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
         uses: ParthProLegendForks/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=16&theme=dracula
           path: profile_stats/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
-        uses: ParthProLegendForks/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=stats-organization&repo=github-readme-stats
-          path: profile_stats/pin-stats-organization-github-readme-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Generate pin card
+      #   uses: ParthProLegendForks/github-readme-stats-action@v2
+      #   with:
+      #     card: pin
+      #     options: username=stats-organization&repo=github-readme-stats
+      #     path: profile_stats/pin-stats-organization-github-readme-stats.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards to profile_stats branch
         uses: ParthProLegendForks/ghaction-github-pages@v2.1.3
