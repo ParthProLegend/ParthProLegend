@@ -1,5 +1,5 @@
 <p align = "center">
-  <img width="413.976px" height="166.788px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/media/zombie.gif" alt="GIF of Zombie Apocalypse, Contains Gore">
+  <img width="413.976px" height="166.788px" src="media\zombie.gif" alt="GIF of Zombie Apocalypse, Contains Gore">
   <!-- <img width="100%" height="40px" src="media\transparent_vaporwave_floor_grid.png" alt="Floor Grid"> -->
 </p>
 
@@ -27,9 +27,9 @@ I stopped watching anime and reading manga, mitigated doomscrolling and listenin
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <img align = "right" width="400px" height="252px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/media/pentagon_glyph.gif" alt="Depressed? NO. Motivated? NO. Just living.">
+  <img align = "right" width="400px" height="252px" src="media\pentagon_glyph.gif" alt="Depressed? NO. Motivated? NO. Just living.">
   <div style="margin-right: 25;">
-    <img alt="ParthProLegend GitHub stats" width="475px" height="212px" src="https://raw.githubusercontent.com/ParthProLegend/ParthProLegend/refs/heads/profile_stats/all-stats.svg">
+    <img alt="ParthProLegend GitHub stats" width="450px" height="200px" src="https://raw.githubusercontent.com/ParthProLegend/ParthProLegend/refs/heads/profile_stats/all-stats.svg">
   </div>
 </div>
 
