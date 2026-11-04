@@ -1,5 +1,5 @@
 <p align = "center">
-  <img width="413.976px" height="166.788px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/media/myheader.gif" alt="GIF of Zombie Apocalypse, Contains Gore">
+  <img width="413.976px" height="166.788px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/media/zombie.gif" alt="GIF of Zombie Apocalypse, Contains Gore">
   <!-- <img width="100%" height="40px" src="media\transparent_vaporwave_floor_grid.png" alt="Floor Grid"> -->
 </p>
 
@@ -13,7 +13,7 @@ struct { // About Me
     string email = "parthworks247+github@gmail.com";
     string discord = "@ParthProLegend";
     string matrix = "@parthprolegend:matrix.org"; //Getting reply here is nearly impossible
-} Parth; 
+} Parth;
 ```
 
 <!-- <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" /> -->
@@ -27,7 +27,7 @@ I stopped watching anime and reading manga, mitigated doomscrolling and listenin
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <img align = "right" width="400px" height="252px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/media/footer.gif" alt="Depressed? NO. Motivated? NO. Just living.">
+  <img align = "right" width="400px" height="252px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/media/pentagon_glyph.gif" alt="Depressed? NO. Motivated? NO. Just living.">
   <div style="margin-right: 25;">
     <img alt="ParthProLegend GitHub stats" width="500px" height="225px" src="https://raw.githubusercontent.com/ParthProLegend/ParthProLegend/refs/heads/profile_stats/all-stats.svg">
   </div>
