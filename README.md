@@ -29,7 +29,7 @@ I stopped watching anime and reading manga, mitigated doomscrolling and listenin
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <img align = "right" width="400px" height="252px" src="https://github.com/ParthProLegend/ParthProLegend/raw/main/media/pentagon_glyph.gif" alt="Depressed? NO. Motivated? NO. Just living.">
   <div style="margin-right: 25;">
-    <img alt="ParthProLegend GitHub stats" width="500px" height="225px" src="https://raw.githubusercontent.com/ParthProLegend/ParthProLegend/refs/heads/profile_stats/all-stats.svg">
+    <img alt="ParthProLegend GitHub stats" width="475px" height="212px" src="https://raw.githubusercontent.com/ParthProLegend/ParthProLegend/refs/heads/profile_stats/all-stats.svg">
   </div>
 </div>
 
