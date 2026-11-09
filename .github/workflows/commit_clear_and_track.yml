@@ -1,0 +1,110 @@
+name: Clear Commit History & Track Total Commits ever
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: flatten-main
+  queue: max
+
+jobs:
+  reset-history:
+    if: ${{ github.event_name == 'workflow_dispatch' || (!github.event.deleted && !contains(github.event.head_commit.message, '[skip ci]')) }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Latest Main
+        uses: actions/checkout@v4
+        with:
+          ref: refs/heads/main
+          fetch-depth: 0
+
+      - name: Update Counter and Flatten History
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          SOURCE_HEAD="$(git rev-parse HEAD)"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          COUNTER_FILE="miscellaneous/commit_counter.txt"
+
+          mkdir -p miscellaneous
+
+          COUNT=0
+
+          if [[ -f "$COUNTER_FILE" ]]; then
+            COUNT="$(tr -d '\r\n' < "$COUNTER_FILE")"
+
+          elif [[ -f "commit_counter.txt" ]]; then
+            COUNT="$(tr -d '\r\n' < commit_counter.txt)"
+            echo "Migrating existing counter to miscellaneous/"
+          fi
+
+          if [[ ! "$COUNT" =~ ^[0-9]+$ ]]; then
+            echo "::error::Invalid commit counter"
+            exit 1
+          fi
+
+          PREVIOUS_FLATTEN="$(git log -1 --format='%H' \
+            --grep='^History-Flattened: true$' || true)"
+
+          if [[ -z "$PREVIOUS_FLATTEN" ]]; then
+            PREVIOUS_FLATTEN="$(git log -1 --format='%H' \
+              --author='github-actions\[bot\]' \
+              --grep='\[skip ci\]' || true)"
+          fi
+
+          if [[ -n "$PREVIOUS_FLATTEN" ]]; then
+            NEW_COMMITS="$(git rev-list --count \
+              "${PREVIOUS_FLATTEN}..${SOURCE_HEAD}")"
+          else
+            NEW_COMMITS="$(git rev-list --count "$SOURCE_HEAD")"
+          fi
+
+          echo "Previous total: $COUNT"
+          echo "New commits: $NEW_COMMITS"
+
+          if (( NEW_COMMITS == 0 )); then
+            echo "No new commits found. Nothing to do."
+            exit 0
+          fi
+
+          TOTAL_COMMITS=$((COUNT + NEW_COMMITS))
+
+          echo "$TOTAL_COMMITS" > "$COUNTER_FILE"
+
+          echo "Updated lifetime total: $TOTAL_COMMITS"
+
+          if [[ -f "commit_counter.txt" ]]; then
+            git rm -f commit_counter.txt
+          fi
+
+          COMMIT_MSG="$(git log -1 --format=%B "$SOURCE_HEAD")"
+
+          if [[ -z "$COMMIT_MSG" ]]; then
+            COMMIT_MSG="Repository history flattened"
+          fi
+
+          git checkout --orphan clean-history
+
+          git add -A
+          git add -f "$COUNTER_FILE"
+
+          git commit \
+            -m "$COMMIT_MSG" \
+            -m "History-Flattened: true" \
+            -m "[skip ci]"
+
+          git push \
+            --force-with-lease="refs/heads/main:$SOURCE_HEAD" \
+            origin HEAD:refs/heads/main
